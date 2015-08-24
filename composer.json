@@ -1,0 +1,16 @@
+{
+    "name": "digfish/ivxapi",
+    "version": "1.0",
+    "description": "IvxApi - small wrapper and configurator for invoicexressrequest-php-api",
+    "license" : "GPL",
+    "autoload": {
+				    "classmap":  [
+				    	"lib/"
+				    ]
+				},
+    "require": {
+        "digfish/invoicexpressrequest-php-api" : "dev-master"
+    }
+
+}
+

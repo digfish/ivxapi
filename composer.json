@@ -2,7 +2,7 @@
     "name": "digfish/ivxapi",
     "version": "1.0",
     "description": "IvxApi - small wrapper and configurator for invoicexressrequest-php-api",
-    "license" : "GPL",
+    "license" : "GPL-2.0",
     "autoload": {
 				    "classmap":  [
 				    	"lib/"

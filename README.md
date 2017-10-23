@@ -1,5 +1,5 @@
-ivxApi
-
+**ivxApi**
+------
 
 This is a simple wrapper that uses the other library InvoiceXpressRequest-PHP-API.
 The class MyInvoiceXpressApi uses the cache implementation from laravel to store the metadata retrieved from the API.

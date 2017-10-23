@@ -9,7 +9,8 @@
 				    ]
 				},
     "require": {
-        "digfish/invoicexpressrequest-php-api" : "dev-master"
+        "digfish/invoicexpressrequest-php-api" : "dev-master",
+         "phpunit/phpunit": "^6.3"
     }
 
 }

@@ -1,7 +1,7 @@
 <?php
 
 use PHPUnit\Framework\TestCase;
-use digfish\ivx\InvoiceXpressRequest;
+//use digfish\ivx_api2_php\InvoiceXpressRequest;
 
 class InvoiceXpressApiTest extends TestCase {
 

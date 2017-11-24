@@ -18,6 +18,8 @@ require_once __DIR__ . "/../config/ivx_config.php";
  * @
  */
 
+use digfish\ivx_api2_php\InvoiceXpressRequest;
+
 class MyInvoiceXpressApi extends InvoiceXpressRequest {
 
 	 static $isInitialized;

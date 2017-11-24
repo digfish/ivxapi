@@ -1,17 +1,21 @@
 {
     "name": "digfish/ivxapi",
-    "version": "1.0",
+    "version": "2.0",
     "description": "IvxApi - small wrapper and configurator for invoicexressrequest-php-api",
     "license" : "GPL-2.0",
+    "repositories": [{
+        "type": "path",
+        "url": "/home/sam/gitrepos/digfish/ivx-api2-php"
+    }],     
+
     "autoload": {
 				    "classmap":  [
 				    	"lib/"
 				    ]
 				},
     "require": {
-        "digfish/invoicexpressrequest-php-api" : "dev-master",
-         "phpunit/phpunit": "^6.3"
+        "digfish/ivx-api2-php" : "*",
+        "phpunit/phpunit": "^6.3"
     }
 
 }
-
